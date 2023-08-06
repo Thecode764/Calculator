@@ -27,4 +27,4 @@ python2 Calculator.py
 ```
 <h1 align="center">oh-my-zsh</h1>
 
-![Imgur](https://i.imgur.com/SM441j1.png)
+![Imgur](https://i.postimg.cc/fMBWjc8w/Screenshot-from-2023-08-06-03-14-35.png?dl=1)
