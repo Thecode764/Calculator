@@ -25,6 +25,6 @@ git clone https://github.com/Thecode764/Calculator
 cd Clculator
 python2 Calculator.py
 ```
-<h1 align="center">oh-my-zsh</h1>
+<h1 align="center">Output</h1>
 
 ![Imgur](https://i.postimg.cc/fMBWjc8w/Screenshot-from-2023-08-06-03-14-35.png?dl=1)
