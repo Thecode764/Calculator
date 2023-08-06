@@ -22,7 +22,7 @@ brew install python2
 How To Run ?
 ```
 git clone https://github.com/Thecode764/Calculator
-cd Clculator
+cd Calculator
 python2 Calculator.py
 ```
 <h1 align="center">Output</h1>
