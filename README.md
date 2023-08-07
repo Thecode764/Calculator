@@ -36,3 +36,8 @@ python2 Calculator.py
 <h1 align="center">Output While Install</h1>
 
 ![Imgur](https://i.postimg.cc/NsJgqmyg/Screenshot-from-2023-08-06-03-56-44.png?dl=1)
+##For Uptade
+```bash
+git clone https://github.com/Thecode764/Calculator
+cd Calculator
+python2 Calculator2.py
