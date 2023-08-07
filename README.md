@@ -57,5 +57,3 @@ python2 Calculator2.py
 - Please Dont Delete `Calculator` folder for Delete Open terminal and type `sudo su` and enter command `rm -r Calculator`.
 ## How To Use
 !(https://storage.tapture.ir/jabeh/node/2023/8/7/CxWrobYeD5nIzTacP878FDdIZFsdZ2xbBV67k8Ce.mp4)
-)
-
