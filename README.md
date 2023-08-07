@@ -32,7 +32,7 @@ For Install In Macos
 Install Brew Package
 brew install python2
 ```
----
+
 ## How To Run ?
 ```
 git clone https://github.com/Thecode764/Calculator
