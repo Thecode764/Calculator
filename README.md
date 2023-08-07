@@ -2,7 +2,7 @@
 help calculator
 - simple Calculator tool made with Python2 (:
 # Levels
-- [Getting started](#getting-started)
+[Getting started](#getting-started)
 
 
 ---
