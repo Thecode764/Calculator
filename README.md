@@ -2,9 +2,13 @@
 help calculator
 - simple Calculator tool made with Python2 (:
 ## Install Python2
-For Install In Linux 
+For Install In Linux and use apt packages
 ```
 sudo apt-get install python2
+```
+For Install In Linux and use dnf packages
+```
+sudo dnf install python2
 ```
 ---
 For Install In Windows
