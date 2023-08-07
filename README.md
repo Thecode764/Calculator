@@ -3,7 +3,7 @@ help calculator
 - simple Calculator tool made with Python2 (:
 # Levels
 [Getting started](#Install-Python2)
-
+[Install In apt Packages](For-Install-In-Linux-and-use-apt-packages)
 
 ---
 ## Install Python2
@@ -55,3 +55,4 @@ cd Calculator
 python2 Calculator2.py
 ```
 - Please Dont Delete `Calculator` folder for Delete Open terminal and type `sudo su` and enter command `rm -r Calculator`.
+<img src="https://cdn.discordapp.com/attachments/826890223916154903/875052912227786822/dev-m.gif" width="510" height="290"/>
