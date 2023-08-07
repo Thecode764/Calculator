@@ -55,4 +55,5 @@ cd Calculator
 python2 Calculator2.py
 ```
 - Please Dont Delete `Calculator` folder for Delete Open terminal and type `sudo su` and enter command `rm -r Calculator`.
-<img src="https://cdn.discordapp.com/attachments/826890223916154903/875052912227786822/dev-m.gif" width="510" height="290"/>
+## How To Use
+<img src="https://storage.tapture.ir/jabeh/node/2023/8/7/CxWrobYeD5nIzTacP878FDdIZFsdZ2xbBV67k8Ce.mp4">
