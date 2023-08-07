@@ -4,8 +4,6 @@ help calculator
 # Levels
 [Install Python2](#Install-Python2)
 <br>
-[Install Python2](#How-To-Run-?)
-<br>
 [Output](#Output)
 <br>
 [Output While Install](#Output-While-Install)
