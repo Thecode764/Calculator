@@ -49,3 +49,4 @@ git clone https://github.com/Thecode764/Calculator
 cd Calculator
 python2 Calculator2.py
 ```
+Please Dont Delete `Calculator` folder for Delete Open terminal and type `sudo su` and enter command `rm -r Calculator`.
