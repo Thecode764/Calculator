@@ -10,8 +10,6 @@ help calculator
 <br>
 [Output While Install](#Output-While-Install)
 
-
-
 ---
 ## Install Python2
 For Install In Linux and use apt packages
