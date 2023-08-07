@@ -35,7 +35,7 @@ Install Brew Package
 brew install python2
 ```
 ---
-How To Run ?
+# How To Run ?
 ```
 git clone https://github.com/Thecode764/Calculator
 cd Calculator
