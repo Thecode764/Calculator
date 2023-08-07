@@ -1,7 +1,7 @@
 # Calculator
 help calculator
 - simple Calculator tool made with Python2 (:
-# Levels
+# Levels 👑
 [Install Python2](#Install-Python2)
 <br>
 [Output](#Output)
