@@ -38,7 +38,7 @@ python2 Calculator.py
 ![Imgur](https://i.postimg.cc/NsJgqmyg/Screenshot-from-2023-08-06-03-56-44.png?dl=1)
 
 
-##For Uptade
+## For Uptade
 ```bash
 git clone https://github.com/Thecode764/Calculator
 cd Calculator
