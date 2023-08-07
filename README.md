@@ -2,7 +2,8 @@
 help calculator
 - simple Calculator tool made with Python2 (:
 # Levels
-- [Getting start](#Install Python2)
+- [Getting started](#getting-started)
+
 
 ---
 ## Install Python2
