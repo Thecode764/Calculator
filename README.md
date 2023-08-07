@@ -40,6 +40,7 @@ python2 Calculator.py
 ---
 ## For Update
 ```zsh
+rm -r Calculator
 git clone https://github.com/Thecode764/Calculator
 cd Calculator
 python2 Calculator2.py
