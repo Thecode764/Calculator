@@ -3,9 +3,6 @@ help calculator
 - simple Calculator tool made with Python2 (:
 # Levels
 [Getting started](#Install-Python2)
-<br>
-[Install In apt Packages](For-Install-In-Linux-and-use-apt-packages)
-
 ---
 ## Install Python2
 For Install In Linux and use apt packages
