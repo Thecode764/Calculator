@@ -39,7 +39,7 @@ python2 Calculator.py
 ```
 <h1 align="center">Output</h1>
 
-![Imgur](https://i.postimg.cc/fMBWjc8w/Screenshot-from-2023-08-06-03-14-35.png?dl=1)
+![Imgur](https://i.postimg.cc/wgHG5yGB/Screenshot-from-2023-08-06-06-27-14.png?dl=1)
 
 ---
 
