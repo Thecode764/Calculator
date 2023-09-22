@@ -37,6 +37,13 @@ git clone https://github.com/Thecode764/Calculator
 cd Calculator
 python2 Calculator.py
 ```
+git clone https://github.com/Thecode764/Calculator
+cd Calculator
+python3 Calculator2.py
+```
+## Install Python3 Version
+```
+
 <h1 align="center">Output</h1>
 
 ![Imgur](https://i.postimg.cc/SS8J4NCn/Screenshot-from-2023-08-06-03-14-35.png?dl=1)
@@ -50,12 +57,5 @@ python2 Calculator.py
 ![Imgur](https://i.postimg.cc/NsJgqmyg/Screenshot-from-2023-08-06-03-56-44.png?dl=1)
 
 ---
-## For Update
-```zsh
-rm -r Calculator
-git clone https://github.com/Thecode764/Calculator
-cd Calculator
-python2 Calculator2.py
-```
 - Please Dont Delete `Calculator` folder for Delete Open terminal and type `sudo su` and enter command `rm -r Calculator`.
 
