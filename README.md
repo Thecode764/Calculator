@@ -37,11 +37,11 @@ git clone https://github.com/Thecode764/Calculator
 cd Calculator
 python2 Calculator.py
 ```
+## Install Python3 Version
+```
 git clone https://github.com/Thecode764/Calculator
 cd Calculator
 python3 Calculator2.py
-```
-## Install Python3 Version
 ```
 
 <h1 align="center">Output</h1>
